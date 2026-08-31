@@ -1,4 +1,4 @@
-<h2 align="center">Yow, I'm Renderham, I like hams</h2>
+<h2 align="center">Yow, I'm Renderham, I like hamburgers</h2>
 <p align="center">
   <i>Scuffed Filipino low-level developer</i>
 </p>
