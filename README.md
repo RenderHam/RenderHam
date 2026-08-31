@@ -1,6 +1,6 @@
-<h2 style="text-align: center;">Yow, I'm Renderham, I like hams</h2>
+<h2 align="center">Yow, I'm Renderham, I like hams</h2>
 <p align="center">
-  <i>Scuffed low-level developer</i>
+  <i>Scuffed Filipino low-level developer</i>
 </p>
 
 ## About Me
